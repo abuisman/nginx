@@ -98,6 +98,6 @@ suites:
           - nginx::naxsi_module
           - nginx::ngx_devel_module
           - nginx::ngx_lua_module
-          - nginx::ngx_http_dav_module
+          - nginx::http_dav_module
           - nginx::openssl_source
           - nginx::upload_progress_module
